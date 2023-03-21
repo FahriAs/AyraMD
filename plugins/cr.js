@@ -49,7 +49,7 @@ let time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
   ◉ 𝐀𝐠𝐞 : ${age}
 
 ➥ *𝐈𝐍𝐅𝐎 𝐁𝐎𝐓*
-  ◉ R𝐮𝐧𝐧𝐢𝐧𝐠 O𝐧 : P𝐚𝐧𝐞𝐥
+  ◉ R𝐮𝐧𝐧𝐢𝐧𝐠 O𝐧 : Replit
   ◉ M𝗼𝐝𝐞 : Public
   ◉ 𝐓𝐢𝗺𝐞 : ${time} ﹙ɢᴍᴛ +5:30﹚
   ◉ 𝐃𝐚𝐭𝐞 : ${date}
@@ -62,7 +62,7 @@ await conn.send2ButtonDoc(m.chat, cap, botdate, '𝐋𝐢𝐬𝐭𝐌𝐞𝐧�
 			contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
-                    body: '© 𝐒𝐤𝐲𝐁𝗼𝐭',
+                    body: '© Kanna',
     containsAutoReply: true,
     mediaType: 1,
     mediaUrl: hwaifu.getRandom(), 
